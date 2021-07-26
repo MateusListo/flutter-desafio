@@ -2,16 +2,16 @@
 Segue abaixo as telas que deveram ser criadas:
 
 ## HOME
-![alt text](https://github.com/MateusListo/flutter-avaliacao-tecnica/blob/main/img/home.png)
+![alt text](https://github.com/MateusListo/flutter-desafio/blob/main/img/home.png)
 
 ## AÇÕES
-![alt text](https://github.com/MateusListo/flutter-avaliacao-tecnica/blob/main/img/home.png)
+![alt text](https://github.com/MateusListo/flutter-desafio/blob/main/img/home.png)
 
 ## FUNDOS
-![alt text](https://github.com/MateusListo/flutter-avaliacao-tecnica/blob/main/img/home.png)
+![alt text](https://github.com/MateusListo/flutter-desafio/blob/main/img/home.png)
 
 ## PREVIDÊNCIAS
-![alt text](https://github.com/MateusListo/flutter-avaliacao-tecnica/blob/main/img/home.png)
+![alt text](https://github.com/MateusListo/flutter-desafio/blob/main/img/home.png)
 
 
 ## Envio do teste
