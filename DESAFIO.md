@@ -15,4 +15,4 @@ Segue abaixo as telas que deveram ser criadas:
 
 
 ## Envio do teste
-1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Dev. Flutter** para [Listo](mailto:mateus.schmidt@soulisto.com.br)
+1. Suba o repositório no seu Github e envie o link com o assunto: **Teste Dev. Flutter** para [mateus.schmidt@soulisto.com.br](mailto:mateus.schmidt@soulisto.com.br)
