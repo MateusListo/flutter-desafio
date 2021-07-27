@@ -1,4 +1,4 @@
-# Teste para vaga dev. Flutter na Listo
+# Teste para vaga dev Flutter junior na Listo
 Este repositório tem como fim testar os candidatos para vaga dev. Flutter na empresa [Listo](https://br.linkedin.com/company/listooficial).
 > Para esta vaga buscamos alguém apaixonado por mobile e atento aos detalhes!
 
@@ -9,12 +9,6 @@ Este repositório tem como fim testar os candidatos para vaga dev. Flutter na em
 4. Qualquer contribuição para melhorar o resultado será bem vinda!
 5. O usuário do GitHub utilizado no exemplo pode ser qualquer um de sua escolha
 6. Ao finalizar, atualize o README.md no seu repositório com as instruções para instalar e executar sua entrega
-
-## Desafio (opcional para Junior), a página deve:
-1. Carregar os dados de forma dinâmica utilizando a [API do GitHub](https://developer.github.com/v3/)
-2. Carregar os repositórios do usuário inicialmente
-3. Carregar os favoritos do usuário ao acessar a tab **Starred**
-4. Fazer uma busca ao digitar e fazer o submit com "Enter"
 
 ## O que esperamos no teste
 * Um código Dart organizado com nomes de variáveis e funções auto explicativas
